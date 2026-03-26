@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+bleak
+python-dotenv
+-e ../../efficient-computer-python-ble
